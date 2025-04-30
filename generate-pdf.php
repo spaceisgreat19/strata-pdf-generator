@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/vendor/autoload.php';
 
-header("Access-Control-Allow-Origin: https://info-1111-self-learning-advanced-1st29zv7x.vercel.app");
+header("Access-Control-Allow-Origin: https://info-1111-self-learning-advanced-ncg3bdfdv.vercel.app");
 header("Access-Control-Allow-Methods: POST");
 header("Access-Control-Allow-Headers: Content-Type");
 
